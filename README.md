@@ -1,0 +1,1 @@
+This project involves the Exploratory Data Analysis and the first steps of model generation for the Income Price Prediction analysis. This is the regression problem and for the Exploratory Data Analysis part, 3 types of analysis have been applied. Univariate Analysis, Bivariate Analysis and Multivariate Analysis.
